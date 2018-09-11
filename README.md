@@ -5,6 +5,8 @@ Computer Science Student at MiraCosta College.
 ## _Skills_:
 **Programming Languages:** Java, Python, C++, C#
 
+**Soft Skills:** Leadership, Communication, Time Management, Project Management, Advocacy.
+
 **Languages spoken**: English, German, Russian, Ukrainian
 
 # _Professional Experience_
