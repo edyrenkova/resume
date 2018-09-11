@@ -4,6 +4,7 @@ Computer Science Student at MiraCosta College.
 
 ## _Skills_:
 **Programming Languages:** Java, Python, C++, C#
+
 **Languages spoken**: English, German, Russian, Ukrainian
 
 # _Professional Experience_
@@ -36,13 +37,15 @@ As a part of IoT-SiTY REU program, worked with Dr. Nalini Venkatasubramanian on 
 
 # _Education_
 ## MiraCosta College
-### Associate's degree, Math and Sciences
+**Associate's degree, Math and Sciences**
+
 _August 2017 - Present_
 
 GPA 4.0
 
 ## Dnipro Lyceum of Information Technologies
-### Diploma with Honors
+**Diploma with Honors**
+
 _September 2013 - June 2017_
 
 # _Honors and Awards_
