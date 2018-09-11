@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### Emiliia Dyrenkova
 
-You can use the [editor on GitHub](https://github.com/edyrenkova/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Computer Science Student at MiraCosta College.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Professional Experience
 
-### Markdown
+## Academic Information Services Department Intern
+# MiraCosta College
+_September 2018 - Present_
+Applying Project Management and Quality Assurance skills to provide student prospective on software upgrade.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Computer Science Tutor
+# Nordson STEM Learning Center
+_August 2018 - Present_
+Providing academic support to Computer Science students via drop-ins and appointments.
 
-```markdown
-Syntax highlighted code block
+## Director of Legislative Affairs
+# Associated Student Government at MiraCosta College
+_August 2018 - Present_
+Representing students on local, state, national levels and coordinating the advocacy efforts.
 
-# Header 1
-## Header 2
-### Header 3
+## Research Intern
+# University of California, Irvine
+_June 2018 - August 2018_
+As a part of IoT-SiTY REU program, worked with Dr. Nalini Venkatasubramanian on the research project that studies methods for predicting missing sensor data for smart firefighting.
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edyrenkova/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
