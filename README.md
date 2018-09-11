@@ -58,3 +58,6 @@ _September 2013 - June 2017_
 * MiraCosta College 2017-2018 President's Volunteer Service Award (72 hours)
 * Scholarship for outstanding academic and scientific achievement from Association of Women in Science, San Diego Chapter
 * President's list
+
+### _Links_
+[LinkedIn](https://www.linkedin.com/in/emiliia-d-048a66140)
